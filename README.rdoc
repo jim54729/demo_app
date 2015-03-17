@@ -1,28 +1,9 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+One of my first apps with Ruby on Rails
 
-Things you may want to cover:
+Learned to use TDD,  -Test Driven Delopment,  where we wrote the test code before the code so that we knew if eveything was working correctly.
 
-* Ruby version
+Learn to push an App to Heroku.app and used GIT to work with it, and share it.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+This was from a course offered at Madison College.
